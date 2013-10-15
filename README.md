@@ -89,6 +89,7 @@ $(document).ready(function() {
             price: $('*[data-type=troggle][title=Price]').troggle('state'),
             weight: $('*[data-type=troggle][title=Weight]').troggle('state')
         }
+        console.log(states);
     });
 });
 </script>
