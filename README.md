@@ -1,5 +1,5 @@
-jquery-troggle
-==============
+jquery-troggle.js
+=================
 
 Troggle lets you toggle cyclic states on dom elements, they then becom controls.
 
